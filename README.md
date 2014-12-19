@@ -1,6 +1,6 @@
 Overview:
 =====
-Monthyl community events organized by gSchool students.
+Monthly community events organized by gSchool students.
 
 ### Format
 * 1 - 3 Lightning talks and student demos
@@ -10,8 +10,8 @@ Monthyl community events organized by gSchool students.
 ### Dates
 
 #### January
-Date: When did we decide to do the first one again?  
-Topic: 
+Date: January 21, 2015
+Topic: Collaborate with GitHub
 
 #### February
 Date:  
@@ -29,4 +29,3 @@ Topic:
 *  Confirm dates with Emily
 *  Schedule first event on meetup
 *  
-
