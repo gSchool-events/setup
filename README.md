@@ -1,4 +1,10 @@
-setup
+Todo:
 =====
 
-Things to do.
+## Aaron
+
+*  Confirm dates with Emily
+*  Schedule first event on meetup
+*  
+
+
