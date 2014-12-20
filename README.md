@@ -10,7 +10,7 @@ Monthly community events organized by gSchool students.
 ### Dates
 
 #### January
-Date: January 21, 2015
+Date: January 21, 2015  
 Topic: Collaborate with GitHub
 
 #### February
